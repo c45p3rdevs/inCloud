@@ -1,0 +1,30 @@
+.form-control-file {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.btn-warning {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.form-control-file {
+    display: flexbox;
+
+}
+
+
+.btn-warning,
+.btn-danger {
+    margin-right: 5px;
+}
+
+.btn-sm {
+    margin-bottom: 5px;
+}
+
+td form {
+    display: inline-block;
+}
+
+td .form-control-file {
+    display: inline-block;
+}
