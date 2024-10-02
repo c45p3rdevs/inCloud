@@ -4,7 +4,7 @@
 $servername = "localhost";
 $username = "root"; // Cambia esto por tu usuario de MySQL
 $password = ""; // Cambia esto por tu contraseña de MySQL
-$dbname = "inCloud";
+$dbname = "filecloud";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
